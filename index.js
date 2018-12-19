@@ -7,6 +7,6 @@ function subtract(a, b){
 function multiply(a, b){
   return a * b;
 }
-function divide(){
-  5.0/2.5;
+function divide(a, b){
+  return a / b;
 }
